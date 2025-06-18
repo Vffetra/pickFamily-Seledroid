@@ -21,7 +21,6 @@ hosts = [
 "https://solpick.io/",
 "https://suipick.io/",
 "https://bnbpick.io/",
-"https://bnbpick.io/",
 "https://tonpick.game/"
 ]
 
